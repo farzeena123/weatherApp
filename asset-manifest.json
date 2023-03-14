@@ -1,0 +1,15 @@
+{
+  "main.css": "/weatherApp/static/css/main.8e86b29c.chunk.css",
+  "main.js": "/weatherApp/static/js/main.e4341c25.chunk.js",
+  "main.js.map": "/weatherApp/static/js/main.e4341c25.chunk.js.map",
+  "static/css/1.2b0e93d4.chunk.css": "/weatherApp/static/css/1.2b0e93d4.chunk.css",
+  "static/js/1.47395c75.chunk.js": "/weatherApp/static/js/1.47395c75.chunk.js",
+  "static/js/1.47395c75.chunk.js.map": "/weatherApp/static/js/1.47395c75.chunk.js.map",
+  "runtime~main.js": "/weatherApp/static/js/runtime~main.0ff3e20d.js",
+  "runtime~main.js.map": "/weatherApp/static/js/runtime~main.0ff3e20d.js.map",
+  "static/css/main.8e86b29c.chunk.css.map": "/weatherApp/static/css/main.8e86b29c.chunk.css.map",
+  "static/css/1.2b0e93d4.chunk.css.map": "/weatherApp/static/css/1.2b0e93d4.chunk.css.map",
+  "index.html": "/weatherApp/index.html",
+  "precache-manifest.56487832f88ae53a59ec1626c5932224.js": "/weatherApp/precache-manifest.56487832f88ae53a59ec1626c5932224.js",
+  "service-worker.js": "/weatherApp/service-worker.js"
+}
